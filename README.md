@@ -1,0 +1,2 @@
+# practicaLaboratorioGitHub
+Practica de laboratorio
