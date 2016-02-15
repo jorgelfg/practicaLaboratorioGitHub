@@ -21,6 +21,7 @@
     </head>
     <body>
         <h1>Welcome to IFPWAFCAD, the International Former Professional Wrestlers' Association for Counseling and Development!</h1>
+        <h2>Cambio por Juan Pablo</h2>
         <table border="0">
             <thead>
                 <tr>
